@@ -9,6 +9,8 @@ TagManager:
   - Receptor
   - TriggerControl
   - TriggerControl2
+  - Laser Reflect
+  - Mirror
   layers:
   - Default
   - TransparentFX
